@@ -9,8 +9,6 @@ This is a collection of Python notebooks for a course taught in the Centre for L
 
 The course meets on Tuesdays, Thursdays, and Fridays throughout semester 2. When there is a lecture, the whole class meets together 14:00 - 15:00. When there is a lab, the class will split into three groups and meet either 14:00 - 15:00, 15:00 - 16:00, or 16:00 - 17:00.
 
-There are two assessments, in the form of two take-home exams that will require a mix of multiple choice and short-answer questions. Some questions will require running some simulations and presenting the results as a graph or set of graphs. Students will have around 2 weeks to complete the exams.
-
 ### Schedule (subject to change)
 
 1. Lecture: why simulate language? (15/01)
@@ -41,3 +39,10 @@ Break
 23. Lab: extending iterated Bayesian learning (19/03)
 24. Lecture: evolution of learning bias (21/03)
 25. Lecture: summary, and feedback on assignment 1 (22/03)
+
+### Assessment
+
+There are two assessments, in the form of two take-home exams that will require a mix of multiple choice and short-answer questions. Some questions will require running some simulations and presenting the results as a graph or set of graphs.
+
+1. Assessment one, handed out Wednesday 27th February, submission deadline Thursday 7th March noon (via Learn), marks returned Thursday 28th March.
+2. Assessment two, handed out Thursday 28th March, submission deadline Thursday 25th April, marks returned Thursday 16th May.
