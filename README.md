@@ -12,8 +12,8 @@ The course meets on Tuesdays, Thursdays, and Fridays throughout semester 2. When
 ### Schedule (subject to change)
 
 1. Lecture: why simulate language? (15/01)
-2. Lab: python intro (17/01)
-3. Lab: python intro continued (18/01)
+2. [Lab: python intro (17/01)](simlang_2+3_lab.ipynb)
+3. Lab: python intro continued (18/01) [Answers](simlang_2+3_answered.ipynb), [Walkthrough](simlang_2+3_walkthrough.ipynb)
 4. Lecture: modelling innate signalling (22/01)
 5. Lab: signalling (24/01)
 6. Lecture: evolving signalling (25/01)
