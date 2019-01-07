@@ -3,11 +3,11 @@
 Simon Kirby
 http://www.lel.ed.ac.uk/~simon
 
-This is a collection of Python notebooks for a course taught in the Centre for Language Evolution at Edinburgh showing how to model the evolution of language at all timescales - from individual utterances, through individual learning, cultural transmission, and biological evolution. This course covers many of the major research breakthroughs over the past two decades, and shows how easy it is to build simulations of language evolution. It is suitable for anyone, even without any background in coding, and uses only a very basic subset of Python throughout.
+This is a collection of interactive notebooks for a course taught in the Centre for Language Evolution at Edinburgh showing how to model the evolution of language at all timescales - from individual utterances, through individual learning, cultural transmission, and biological evolution. This course covers many of the major research breakthroughs over the past two decades, and shows how easy it is to build simulations of language evolution. It is suitable for anyone, even without any background in coding, and uses only a very basic subset of the programming language, Python, throughout.
 
 ## Course organisation, 2019
 
-The course meets on Tuesdays, Thursdays, and Fridays throughout semester 2. When there is a lecture, the whole class meets together 14:00 - 15:00. When there is a lab, the class will split into three groups and meet either 14:00 - 15:00, 15:00 - 16:00, or 16:00 - 17:00.
+The course meets on Tuesdays, Thursdays, and Fridays throughout semester 2. When there is a lecture, the whole class meets together 14:00 - 15:00. When there is a lab, the class will split into three groups and meet either 14:00 - 15:00, 15:00 - 16:00, or 16:00 - 17:00. Assignments of students to groups will be carried out after the first lecture using an online sign up system.
 
 ### Schedule (subject to change)
 
@@ -45,4 +45,4 @@ Break
 There are two assessments, in the form of two take-home exams that will require a mix of multiple choice and short-answer questions. Some questions will require running some simulations and presenting the results as a graph or set of graphs.
 
 1. Assessment one, handed out Wednesday 27th February, submission deadline Thursday 7th March noon (via Learn), marks returned Thursday 28th March.
-2. Assessment two, handed out Thursday 28th March, submission deadline Thursday 25th April, marks returned Thursday 16th May.
+2. Assessment two, handed out Thursday 28th March, submission deadline Thursday 25th April noon (via Learn), marks returned Thursday 16th May.
