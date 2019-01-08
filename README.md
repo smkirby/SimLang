@@ -52,3 +52,22 @@ There are two assessments, in the form of two take-home exams that will require 
 ### Using the interactive notebooks
 
 The interactive Python notebooks work using a "Jupyter Server". The University of Edinburgh provides one that you can log into here: https://noteable.edina.ac.uk/login
+
+We will talk you through how to use the notebooks in the lab, but I'll outline the steps here too. After you've logged on to the noteable service you may have to either "reconnect" or "start" your server. Once you've done that you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating. First, we need to upload the notebooks from this github site. To do that, you need to open a new notebook that you'll use to update the files regularly (whenever a new notebook is posted for example). Follow these steps:
+
+1. Click on the "new" menu.
+2. Select "Python 3". This will open a brand new notebook.
+3. In the first "cell" of the notebook, you need to copy and paste the following code:
+
+	!rm -rf simlang
+	!git clone https://github.com/smkirby/simlang
+	!mkdir -p simlang_local
+	!cp -nr simlang/* simlang_local
+
+4. Run this code by pressing SHIFT + ENTER. This will transfer all the current simlang content into your notebook server. It also makes a "local" copy of the code in a folder called "simlang_local". This is the one you should do your work in, safe in the knowledge any changed you make won't get overwritten.
+5. Rename your notebook something like "Update Course" by clicking on the "file" menu and then "rename"
+6. Save the notebook by clicking "file" and then "save and checkpoint".
+
+Now you're done. You can close that browser tab. Next time you want to add new notebooks from the course website, just open the notebook "Update Course.ipynb" in the file list in the first noteable window and run that first cell again by pressing SHIFT + ENTER.
+
+You can now click on the "simlang_local" folder in the file list in the noteable window and open any of the notebook files that are there. If you mess anything up, you can delete the notebook you're working on, run the update course notebook again and you'll have a fresh file to work from. (But be careful, you won't be able to undo this!)
