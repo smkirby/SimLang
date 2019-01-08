@@ -51,4 +51,4 @@ There are two assessments, in the form of two take-home exams that will require 
 
 ### Using the interactive notebooks
 
-The interactive Python notebooks work using a "Jupyter Server". The University of Edinburgh provides one that you can log into here: https://noteable.edina.ed.ac.uk/login
+The interactive Python notebooks work using a "Jupyter Server". The University of Edinburgh provides one that you can log into here: https://noteable.edina.ac.uk/login
