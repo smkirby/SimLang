@@ -1,4 +1,4 @@
-# [Simulating Language](github.com/smkirby/simlang)
+# [Simulating Language](https://github.com/smkirby/simlang)
 
 [**Simon Kirby**](http://www.lel.ed.ac.uk/~simon) January 2019
 
