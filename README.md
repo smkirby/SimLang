@@ -1,7 +1,7 @@
-# Simulating Language
+# [Simulating Language](github.com/smkirby/simlang)
 
-Simon Kirby
-http://www.lel.ed.ac.uk/~simon
+[**Simon Kirby**](http://www.lel.ed.ac.uk/~simon) January 2019
+
 
 This is a collection of interactive notebooks for a course taught in the Centre for Language Evolution at Edinburgh showing how to model the evolution of language at all timescales - from individual utterances, through individual learning, cultural transmission, and biological evolution. This course covers many of the major research breakthroughs over the past two decades, and shows how easy it is to build simulations of language evolution. It is suitable for anyone, even without any background in coding, and uses only a very basic subset of the programming language, Python, throughout.
 
@@ -49,24 +49,27 @@ There are two assessments, in the form of two take-home exams that will require 
 1. Assessment one, handed out Wednesday 27th February, submission deadline Thursday 7th March noon (via Learn), marks returned Thursday 28th March.
 2. Assessment two, handed out Thursday 28th March, submission deadline Thursday 25th April noon (via Learn), marks returned Thursday 16th May.
 
-### Using the interactive notebooks
+## Using the interactive notebooks
 
 The interactive Python notebooks work using a "Jupyter Server". The University of Edinburgh provides one that you can log into here: https://noteable.edina.ac.uk/login
 
 We will talk you through how to use the notebooks in the lab, but I'll outline the steps here too. After you've logged on to the noteable service you may have to either "reconnect" or "start" your server. Once you've done that you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating. First, we need to upload the notebooks from this github site. To do that, you need to open a new notebook that you'll use to update the files regularly (whenever a new notebook is posted for example). Follow these steps:
 
-1. Click on the "new" menu.
-2. Select "Python 3". This will open a brand new notebook.
-3. In the first "cell" of the notebook, you need to copy and paste the following code:
+- Click on the "new" menu.
+- Select "Python 3". This will open a brand new notebook.
+- In the first "cell" of the notebook, you need to enter some code that will handle the transfer from the github cite. 
+
+Copy and paste the following code into the cell:
 
 	!rm -rf simlang
 	!git clone https://github.com/smkirby/simlang
 	!mkdir -p simlang_local
 	!cp -nr simlang/* simlang_local
 
-4. Run this code by pressing SHIFT + ENTER. This will transfer all the current simlang content into your notebook server. It also makes a "local" copy of the code in a folder called "simlang_local". This is the one you should do your work in, safe in the knowledge any changed you make won't get overwritten.
-5. Rename your notebook something like "Update Course" by clicking on the "file" menu and then "rename"
-6. Save the notebook by clicking "file" and then "save and checkpoint".
+
+- Run this code by pressing SHIFT + ENTER. This will transfer all the current simlang content into your notebook server. It also makes a "local" copy of the code in a folder called "simlang_local". This is the one you should do your work in, safe in the knowledge any changed you make won't get overwritten.
+- Rename your notebook something like "Update Course" by clicking on the "file" menu and then "rename"
+- Save the notebook by clicking "file" and then "save and checkpoint".
 
 Now you're done. You can close that browser tab. Next time you want to add new notebooks from the course website, just open the notebook "Update Course.ipynb" in the file list in the first noteable window and run that first cell again by pressing SHIFT + ENTER.
 
