@@ -57,7 +57,7 @@ We will talk you through how to use the notebooks in the lab, but I'll outline t
 
 - Click on the "new" menu.
 - Select "Python 3". This will open a brand new notebook.
-- In the first "cell" of the notebook, you need to enter some code that will handle the transfer from the github cite. 
+- In the first "cell" of the notebook, you need to enter some code that will handle the transfer from the github site. 
 
 Copy and paste the following code into the cell:
 
