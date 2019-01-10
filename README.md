@@ -44,7 +44,7 @@ Break
 
 ### Assessment
 
-There are two assessments, in the form of two take-home exams that will require a mix of multiple choice and short-answer questions. Some questions will require running some simulations and presenting the results as a graph or set of graphs.
+There are two assessments, in the form of two take-home exams with short-answer questions. Some questions will require running some simulations and presenting the results as a graph or set of graphs.
 
 1. Assessment one, handed out Wednesday 27th February, submission deadline Thursday 7th March noon (via Learn), marks returned Thursday 28th March.
 2. Assessment two, handed out Thursday 28th March, submission deadline Thursday 25th April noon (via Learn), marks returned Thursday 16th May.
