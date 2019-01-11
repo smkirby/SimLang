@@ -77,4 +77,6 @@ Now you're done. You can close that browser tab. Next time you want to add new n
 
 You can now click on the "simlang_local" folder in the file list in the noteable window and open any of the notebook files that are there. If you mess anything up, you can delete the notebook you're working on, run the update course notebook again and you'll have a fresh file to work from. (But be careful, you won't be able to undo this!)
 
+[Simon Kirby](http://lel.ed.ac.uk/~simon/), University of Edinburgh, 2019
+
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
