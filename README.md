@@ -14,7 +14,7 @@ The course meets on Tuesdays, Thursdays, and Fridays throughout semester 2. When
 ### Schedule (subject to change)
 
 1. Lecture: why simulate language? (15/01)
-2. [Lab: python intro (17/01)](simlang_2+3_lab.ipynb) [Introduction to notebooks](simlang_notebook_intro.ipynb)
+2. [Lab: python intro (17/01)](simlang_2+3_lab.ipynb) (plus [Introduction to notebooks](simlang_notebook_intro.ipynb))
 3. Lab: python intro continued (18/01) [Answers](simlang_2+3_answered.ipynb), [Walkthrough](simlang_2+3_walkthrough.ipynb)
 4. Lecture: modelling innate signalling (22/01)
 5. Lab: signalling (24/01)
@@ -44,10 +44,12 @@ Break
 
 ### Assessment
 
-There are two assessments, in the form of two take-home exams that will require a mix of multiple choice and short-answer questions. Some questions will require running some simulations and presenting the results as a graph or set of graphs.
+There are two assessments, in the form of two take-home exams with short-answer questions. Some questions will require running some simulations and presenting the results as a graph or set of graphs.
 
 1. Assessment one, handed out Wednesday 27th February, submission deadline Thursday 7th March noon (via Learn), marks returned Thursday 28th March.
 2. Assessment two, handed out Thursday 28th March, submission deadline Thursday 25th April noon (via Learn), marks returned Thursday 16th May.
+
+For undergraduate students, the two assessments are weighted equally. For postgraduate students, the second assessment will count for 70% of the final mark.
 
 ## Using the interactive notebooks
 
@@ -57,7 +59,7 @@ We will talk you through how to use the notebooks in the lab, but I'll outline t
 
 - Click on the "new" menu.
 - Select "Python 3". This will open a brand new notebook.
-- In the first "cell" of the notebook, you need to enter some code that will handle the transfer from the github cite. 
+- In the first "cell" of the notebook, you need to enter some code that will handle the transfer from the github site. 
 
 Copy and paste the following code into the cell:
 
@@ -74,3 +76,7 @@ Copy and paste the following code into the cell:
 Now you're done. You can close that browser tab. Next time you want to add new notebooks from the course website, just open the notebook "Update Course.ipynb" in the file list in the first noteable window and run that first cell again by pressing SHIFT + ENTER.
 
 You can now click on the "simlang_local" folder in the file list in the noteable window and open any of the notebook files that are there. If you mess anything up, you can delete the notebook you're working on, run the update course notebook again and you'll have a fresh file to work from. (But be careful, you won't be able to undo this!)
+
+[Simon Kirby](http://lel.ed.ac.uk/~simon/), University of Edinburgh, 2019
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
