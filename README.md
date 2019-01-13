@@ -9,11 +9,11 @@ This is a collection of interactive notebooks for a course taught in the Centre 
 
 **First class: Tuesday 22nd January, 14:10 - 15:00, Gaddum Lecture Theatre, 1 George Square**
 
-The course meets on Tuesdays, Thursdays, and Fridays throughout semester 2. When there is a lecture, the whole class meets together 14:00 - 15:00. When there is a lab, the class will split into three groups and meet either 14:00 - 15:00, 15:00 - 16:00, or 16:00 - 17:00. Assignments of students to groups will be carried out after the first lecture using an online sign up system.
+The course meets on Tuesdays, Thursdays, and Fridays throughout semester 2. When there is a lecture, the whole class meets together 14:00 - 15:00. When there is a lab, the class will split into three groups and meet either 14:00 - 15:00, 15:00 - 16:00, or 16:00 - 17:00. Assignments of students to groups will be carried out after the first lecture using an [online sign up system](https://tinyurl.com/yc96hug7).
 
 ### Schedule (subject to change)
 
-1. [Lecture: why simulate language?](simlang_1_lecture.ipynb) (15/01)
+1. [Lecture: why simulate language? (15/01)](simlang_1_lecture.ipynb) ([slides](simlang_1_slides.pdf))
 2. [Lab: python intro (17/01)](simlang_2+3_lab.ipynb) (plus [Introduction to notebooks](simlang_notebook_intro.ipynb))
 3. Lab: python intro continued (18/01) [Answers](simlang_2+3_answered.ipynb), [Walkthrough](simlang_2+3_walkthrough.ipynb)
 4. Lecture: modelling innate signalling (22/01)
