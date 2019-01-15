@@ -7,7 +7,7 @@ This is a collection of interactive notebooks for a course taught in the Centre 
 
 ## Course organisation, 2019
 
-**First class: Tuesday 22nd January, 14:10 - 15:00, Gaddum Lecture Theatre, 1 George Square**
+**First class: Tuesday 15th January, 14:10 - 15:00, Gaddum Lecture Theatre, 1 George Square**
 
 The course meets on Tuesdays, Thursdays, and Fridays throughout semester 2. When there is a lecture, the whole class meets together 14:00 - 15:00. When there is a lab, the class will split into three groups and meet either 14:00 - 15:00, 15:00 - 16:00, or 16:00 - 17:00. Assignments of students to groups will be carried out after the first lecture using an [online sign up system](https://tinyurl.com/yc96hug7).
 
