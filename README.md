@@ -13,6 +13,8 @@ This is a collection of interactive notebooks for a course taught in the Centre 
 
 The course meets on Tuesdays, Thursdays, and Fridays throughout semester 2. When there is a lecture, the whole class meets together 14:00 - 15:00. When there is a lab, the class will split into three groups and meet either 14:00 - 15:00, 15:00 - 16:00, or 16:00 - 17:00. Assignments of students to groups will be carried out after the first lecture using an [online sign up system](https://tinyurl.com/yc96hug7).
 
+Students should read the lecture notes (by following the links above or below on the schedule, or on the notebook server for the course). These contain links to the papers we'll be reading as part of the course.
+
 ### Schedule (subject to change)
 
 1. [Lecture: why simulate language? (15/01)](simlang_1_lecture.ipynb) ([slides](simlang_1_slides.pdf))
