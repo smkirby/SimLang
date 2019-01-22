@@ -2,16 +2,15 @@
 
 [**Simon Kirby**](http://www.lel.ed.ac.uk/~simon) January 2019
 
+This is a collection of interactive notebooks for a course taught in the [Centre for Language Evolution](http://lel.ed.ac.uk/cle) at Edinburgh showing how to model the evolution of language at all timescales - from individual utterances, through individual learning, cultural transmission, and biological evolution. This course covers many of the major research breakthroughs over the past two decades, and shows how easy it is to build simulations of language evolution. It is suitable for anyone, even without any background in coding, and uses only a very basic subset of the programming language, Python, throughout.
 
-This is a collection of interactive notebooks for a course taught in the Centre for Language Evolution at Edinburgh showing how to model the evolution of language at all timescales - from individual utterances, through individual learning, cultural transmission, and biological evolution. This course covers many of the major research breakthroughs over the past two decades, and shows how easy it is to build simulations of language evolution. It is suitable for anyone, even without any background in coding, and uses only a very basic subset of the programming language, Python, throughout.
+Although this course is taught in Edinburgh, you're welcome to try it at home if you're not a student using [Binder](https://mybinder.org/v2/gh/smkirby/simlang/master). I've also taught intensive versions of this course as week-long summer/winter schools, so please do get in touch if you're interested in this!
+
+Please note that these documents are very much under construction and the text in particular is likely to be full of typos for some months yet!
 
 ## Course organisation, 2019
 
-**First class: Tuesday 15th January, 14:10 - 15:00, Gaddum Lecture Theatre, 1 George Square**
-
-**First lab: Thursday 17th January, 14:10 or 15:10 or 16:10, 4.02 Appleton Tower** 
-
-The course meets on Tuesdays, Thursdays, and Fridays throughout semester 2. When there is a lecture, the whole class meets together 14:00 - 15:00. When there is a lab, the class will split into three groups and meet either 14:00 - 15:00, 15:00 - 16:00, or 16:00 - 17:00. Assignments of students to groups will be carried out after the first lecture using an [online sign up system](https://tinyurl.com/yc96hug7).
+The course meets on Tuesdays, Thursdays, and Fridays throughout semester 2. When there is a lecture, the whole class meets together 14:00 - 15:00. When there is a lab, the class will split into three groups and meet either 14:00 - 15:00, 15:00 - 16:00, or 16:00 - 17:00. 
 
 Students should read the lecture notes (by following the links above or below on the schedule, or on the notebook server for the course). These contain links to the papers we'll be reading as part of the course.
 
