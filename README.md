@@ -59,7 +59,9 @@ For undergraduate students, the two assessments are weighted equally. For postgr
 
 The interactive Python notebooks work using a "Jupyter Server". The University of Edinburgh provides one that you can log into here: https://noteable.edina.ac.uk/login
 
-We will talk you through how to use the notebooks in the lab, but I'll outline the steps here too. After you've logged on to the noteable service you may have to either "reconnect" or "start" your server. Once you've done that you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating. First, we need to upload the notebooks from this github site. To do that, you need to open a new notebook that you'll use to update the files regularly (whenever a new notebook is posted for example). Follow these steps:
+Alternatively, if you're not at Edinburgh, you can use Binder to interact with the notebooks on a temporary free server: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smkirby/simlang/master)
+
+If you're using the noteable service rather than Binder, you'll need to download the files onto the server. Once you've logged on to the noteable service you may have to either "reconnect" or "start" your server. Once you've done that you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating. First, we need to upload the notebooks from this github site. To do that, you need to open a new notebook that you'll use to update the files regularly (whenever a new notebook is posted for example). Follow these steps:
 
 - Click on the "new" menu.
 - Select "Python 3". This will open a brand new notebook.
