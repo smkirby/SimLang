@@ -2,16 +2,15 @@
 
 [**Simon Kirby**](http://www.lel.ed.ac.uk/~simon) January 2019
 
+This is a collection of interactive notebooks for a course taught in the [Centre for Language Evolution](http://lel.ed.ac.uk/cle) at Edinburgh showing how to model the evolution of language at all timescales - from individual utterances, through individual learning, cultural transmission, and biological evolution. This course covers many of the major research breakthroughs over the past two decades, and shows how easy it is to build simulations of language evolution. It is suitable for anyone, even without any background in coding, and uses only a very basic subset of the programming language, Python, throughout.
 
-This is a collection of interactive notebooks for a course taught in the Centre for Language Evolution at Edinburgh showing how to model the evolution of language at all timescales - from individual utterances, through individual learning, cultural transmission, and biological evolution. This course covers many of the major research breakthroughs over the past two decades, and shows how easy it is to build simulations of language evolution. It is suitable for anyone, even without any background in coding, and uses only a very basic subset of the programming language, Python, throughout.
+Although this course is taught in Edinburgh, you're welcome to try it at home if you're not a student using [Binder](https://mybinder.org/v2/gh/smkirby/simlang/master). I've also taught intensive versions of this course as week-long summer/winter schools, so please do get in touch if you're interested in this!
+
+Please note that these documents are very much under construction and the text in particular is likely to be full of typos for some months yet!
 
 ## Course organisation, 2019
 
-**First class: Tuesday 15th January, 14:10 - 15:00, Gaddum Lecture Theatre, 1 George Square**
-
-**First lab: Thursday 17th January, 14:10 or 15:10 or 16:10, 4.02 Appleton Tower** 
-
-The course meets on Tuesdays, Thursdays, and Fridays throughout semester 2. When there is a lecture, the whole class meets together 14:00 - 15:00. When there is a lab, the class will split into three groups and meet either 14:00 - 15:00, 15:00 - 16:00, or 16:00 - 17:00. Assignments of students to groups will be carried out after the first lecture using an [online sign up system](https://tinyurl.com/yc96hug7).
+The course meets on Tuesdays, Thursdays, and Fridays throughout semester 2. When there is a lecture, the whole class meets together 14:00 - 15:00. When there is a lab, the class will split into three groups and meet either 14:00 - 15:00, 15:00 - 16:00, or 16:00 - 17:00. 
 
 Students should read the lecture notes (by following the links above or below on the schedule, or on the notebook server for the course). These contain links to the papers we'll be reading as part of the course.
 
@@ -20,7 +19,7 @@ Students should read the lecture notes (by following the links above or below on
 1. [Lecture: why simulate language? (15/01)](simlang_1_lecture.ipynb) ([slides](simlang_1_slides.pdf))
 2. [Lab: python intro (17/01)](simlang_2+3_lab.ipynb) (plus [Introduction to notebooks](simlang_2_notebook_intro.ipynb))
 3. Lab: python intro continued (18/01) (plus [Answers](simlang_2+3_answered.ipynb) and [Walkthrough](simlang_2+3_walkthrough.ipynb))
-4. Lecture: modelling innate signalling (22/01)
+4. [Lecture: modelling innate signalling](simlang_4_lecture.ipynb) ([slides](simlang_4_slides.pdf)) (22/01)
 5. [Lab: signalling (24/01)](simlang_5_lab.ipynb) (plus [Walkthrough](simlang_5_walkthrough.ipynb))
 6. Lecture: evolving signalling (25/01)
 7. Lab: signalling in populations (29/01)
@@ -59,7 +58,9 @@ For undergraduate students, the two assessments are weighted equally. For postgr
 
 The interactive Python notebooks work using a "Jupyter Server". The University of Edinburgh provides one that you can log into here: https://noteable.edina.ac.uk/login
 
-We will talk you through how to use the notebooks in the lab, but I'll outline the steps here too. After you've logged on to the noteable service you may have to either "reconnect" or "start" your server. Once you've done that you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating. First, we need to upload the notebooks from this github site. To do that, you need to open a new notebook that you'll use to update the files regularly (whenever a new notebook is posted for example). Follow these steps:
+Alternatively, if you're not at Edinburgh, you can use Binder to interact with the notebooks on a temporary free server: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smkirby/simlang/master)
+
+If you're using the noteable service rather than Binder, you'll need to download the files onto the server. Once you've logged on to the noteable service you may have to either "reconnect" or "start" your server. Once you've done that you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating. First, we need to upload the notebooks from this github site. To do that, you need to open a new notebook that you'll use to update the files regularly (whenever a new notebook is posted for example). Follow these steps:
 
 - Click on the "new" menu.
 - Select "Python 3". This will open a brand new notebook.
