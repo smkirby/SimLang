@@ -84,4 +84,4 @@ You can now click on the "simlang_local" folder in the file list in the noteable
 
 [Simon Kirby](http://lel.ed.ac.uk/~simon/), University of Edinburgh, 2019
 
-All aspects of this work aside from the code itself is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). For code license, see [LICENSE file](LICENSE).
+All aspects of this work aside from the Software itself is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). For Software license, see [LICENSE file](LICENSE).
