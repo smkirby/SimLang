@@ -1,6 +1,6 @@
 # [Simulating Language](https://github.com/smkirby/simlang)
 
-Copywrite (c) 2019 [**Simon Kirby**](http://www.lel.ed.ac.uk/~simon)
+Copyright (c) 2019 [**Simon Kirby**](http://www.lel.ed.ac.uk/~simon)
 
 This is a collection of interactive notebooks for a course taught in the [Centre for Language Evolution](http://lel.ed.ac.uk/cle) at Edinburgh showing how to model the evolution of language at all timescales - from individual utterances, through individual learning, cultural transmission, and biological evolution. This course covers many of the major research breakthroughs over the past two decades, and shows how easy it is to build simulations of language evolution. It is suitable for anyone, even without any background in coding, and uses only a very basic subset of the programming language, Python, throughout.
 
