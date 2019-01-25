@@ -1,6 +1,6 @@
 # [Simulating Language](https://github.com/smkirby/simlang)
 
-[**Simon Kirby**](http://www.lel.ed.ac.uk/~simon) January 2019
+Copyright (c) 2019 [**Simon Kirby**](http://www.lel.ed.ac.uk/~simon)
 
 This is a collection of interactive notebooks for a course taught in the [Centre for Language Evolution](http://lel.ed.ac.uk/cle) at Edinburgh showing how to model the evolution of language at all timescales - from individual utterances, through individual learning, cultural transmission, and biological evolution. This course covers many of the major research breakthroughs over the past two decades, and shows how easy it is to build simulations of language evolution. It is suitable for anyone, even without any background in coding, and uses only a very basic subset of the programming language, Python, throughout.
 
@@ -58,7 +58,7 @@ For undergraduate students, the two assessments are weighted equally. For postgr
 
 The interactive Python notebooks work using a "Jupyter Server". The University of Edinburgh provides one that you can log into here: https://noteable.edina.ac.uk/login
 
-Alternatively, if you're not at Edinburgh, you can use Binder to interact with the notebooks on a temporary free server: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smkirby/simlang/master)
+Alternatively, if you're not a student at the University of Edinburgh, you can use Binder to interact with the notebooks on a temporary free server: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smkirby/simlang/master)
 
 If you're using the noteable service rather than Binder, you'll need to download the files onto the server. Once you've logged on to the noteable service you may have to either "reconnect" or "start" your server. Once you've done that you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating. First, we need to upload the notebooks from this github site. To do that, you need to open a new notebook that you'll use to update the files regularly (whenever a new notebook is posted for example). Follow these steps:
 
@@ -84,4 +84,4 @@ You can now click on the "simlang_local" folder in the file list in the noteable
 
 [Simon Kirby](http://lel.ed.ac.uk/~simon/), University of Edinburgh, 2019
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+All aspects of this work aside from the Software itself is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). For Software license, see [LICENSE file](LICENSE).
