@@ -25,7 +25,7 @@ Students should read the lecture notes (by following the links above or below on
 7. [Lab: signalling in populations](simlang_7_lab.ipynb) (29/01)
 8. [Lab: evolving signalling](simlang_8_lab.ipynb) (31/01)
 9. Lecture: evolving optimal signalling ([slides](simlang_9_slides.pdf)) (01/02)
-10. Lecture: from evolution to learning (05/02)
+10. Lecture: from evolution to learning ([slides](simlang_10_slides.pdf)) (05/02)
 11. Lab: learned signalling (07/02)
 12. Lecture: cultural evolution (08/02)
 13. Lab: iterated learning (12/02)
@@ -50,7 +50,7 @@ Break
 There are two assessments, in the form of two take-home exams with short-answer questions. Some questions will require running some simulations and presenting the results as a graph or set of graphs.
 
 1. Assessment one, handed out Wednesday 27th February, submission deadline Thursday 7th March noon (via Learn), marks returned Thursday 28th March.
-2. Assessment two, handed out Thursday 28th March, submission deadline Thursday 25th April noon (via Learn), marks returned Thursday 16th May.
+2. Assessment two, handed out Thursday 28th March, submission deadline Thursday 11th April noon (via Learn), marks returned Thursday 2nd May.
 
 For undergraduate students, the two assessments are weighted equally. For postgraduate students, the second assessment will count for 70% of the final mark.
 
