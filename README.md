@@ -49,7 +49,7 @@ Break
 
 There are two assessments, in the form of two take-home exams with short-answer questions. Some questions will require running some simulations and presenting the results as a graph or set of graphs.
 
-1. Assessment one, handed out Wednesday 27th February, submission deadline Thursday 7th March noon (via Learn), marks returned Thursday 28th March.
+1. Assessment one, handed out Thursday 21st February, submission deadline Thursday 7th March noon (via Learn), marks returned Thursday 28th March.
 2. Assessment two, handed out Thursday 28th March, submission deadline Thursday 11th April noon (via Learn), marks returned Thursday 2nd May.
 
 For undergraduate students, the two assessments are weighted equally. For postgraduate students, the second assessment will count for 70% of the final mark.
