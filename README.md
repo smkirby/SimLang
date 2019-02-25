@@ -1,6 +1,6 @@
 # [Simulating Language](https://github.com/smkirby/simlang)
 
-Copyright (c) 2019 [**Simon Kirby**](http://www.lel.ed.ac.uk/~simon)
+Copyright (c) 2009-2019 [**Simon Kirby**](http://www.lel.ed.ac.uk/~simon), with contributions from [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/), [Jennifer Culbertson](https://jennifer-culbertson.github.io), [Andrew Smith](https://www.stir.ac.uk/people/256435)
 
 This is a collection of interactive notebooks for a course taught in the [Centre for Language Evolution](http://lel.ed.ac.uk/cle) at Edinburgh showing how to model the evolution of language at all timescales - from individual utterances, through individual learning, cultural transmission, and biological evolution. This course covers many of the major research breakthroughs over the past two decades, and shows how easy it is to build simulations of language evolution. It is suitable for anyone, even without any background in coding, and uses only a very basic subset of the programming language, Python, throughout.
 
@@ -27,7 +27,7 @@ Students should read the lecture notes (by following the links above or below on
 9. [Lecture: evolving optimal signalling](simlang_9_lecture.ipynb) ([slides](simlang_9_slides.pdf)) (01/02)
 10. [Lecture: from evolution to learning](simlang_10_lecture.ipynb) ([slides](simlang_10_slides.pdf)) (05/02)
 11. [Lab: learned signalling](simlang_11_lab.ipynb) (07/02)
-12. Lecture: cultural evolution ([slides](simlang_12_slides.pdf)) (08/02)
+12. [Lecture: cultural evolution](simlang_12_lecture.ipynb) ([slides](simlang_12_slides.pdf)) (08/02)
 13. [Lab: iterated learning](simlang_13_lab.ipynb) (12/02)
 
 Break
