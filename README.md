@@ -34,7 +34,7 @@ Break
 
 14. Lecture: from individual to population ([slides](simlang_14_slides.pdf)) (26/02)
 15. Lecture: Bayesian learning ([slides](simlang_15_slides.pdf)) (28/02)
-16. Lecture: iterated Bayesian learning (01/03)
+16. Lecture: iterated Bayesian learning ([slides](simlang_16_slides.pdf)) (01/03)
 17. [Lab: iterated Bayesian learning](simlang_17_lab.ipynb) (05/03)
 18. Lecture: Greenbergian universals (07/03)
 19. Lab: Greenbergian universals (08/03)
