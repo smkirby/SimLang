@@ -37,7 +37,7 @@ Break
 16. Lecture: iterated Bayesian learning ([slides](simlang_16_slides.pdf)) (01/03)
 17. [Lab: iterated Bayesian learning](simlang_17_lab.ipynb) (05/03)
 18. Lecture: Greenbergian universals ([slides](simlang_18_slides.pdf)) (07/03)
-19. Lab: Greenbergian universals (08/03)
+19. [Lab: Greenbergian universals](simlang_19_lab.ipynb) (08/03)
 20. Lecture: compositionality (12/03)
 21. Lab: compositionality from iterated learning (14/03)
 22. Lecture: culture and innateness (15/03)
