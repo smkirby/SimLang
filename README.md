@@ -32,7 +32,7 @@ Students should read the lecture notes (by following the links above or below on
 
 Break
 
-14. Lecture: from individual to population ([slides](simlang_14_slides.pdf)) (26/02)
+14. [Lecture: from individual to population](simlang_14_lecture.ipynb) ([slides](simlang_14_slides.pdf)) (26/02)
 15. Lecture: Bayesian learning ([slides](simlang_15_slides.pdf)) (28/02)
 16. Lecture: iterated Bayesian learning ([slides](simlang_16_slides.pdf)) (01/03)
 17. [Lab: iterated Bayesian learning](simlang_17_lab.ipynb) (05/03)
