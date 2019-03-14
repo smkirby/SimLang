@@ -26,7 +26,7 @@ Students should read the lecture notes (by following the links above or below on
 8. [Lab: evolving signalling (31/01)](simlang_8_lab.ipynb) (some [Answers](simlang_8_answered.ipynb))
 9. [Lecture: evolving optimal signalling (01/02)](simlang_9_lecture.ipynb) ([slides](simlang_9_slides.pdf))
 10. [Lecture: from evolution to learning (05/02)](simlang_10_lecture.ipynb) ([slides](simlang_10_slides.pdf))
-11. [Lab: learned signalling (07/02)](simlang_11_lab.ipynb)
+11. [Lab: learned signalling (07/02)](simlang_11_lab.ipynb) (some [Answers](simlang_11_answered.ipynb))
 12. [Lecture: cultural evolution (08/02)](simlang_12_lecture.ipynb) ([slides](simlang_12_slides.pdf))
 13. [Lab: iterated learning (12/02)](simlang_13_lab.ipynb)
 
