@@ -28,14 +28,14 @@ Students should read the lecture notes (by following the links above or below on
 10. [Lecture: from evolution to learning (05/02)](simlang_10_lecture.ipynb) ([slides](simlang_10_slides.pdf))
 11. [Lab: learned signalling (07/02)](simlang_11_lab.ipynb) (some [Answers](simlang_11_answered.ipynb))
 12. [Lecture: cultural evolution (08/02)](simlang_12_lecture.ipynb) ([slides](simlang_12_slides.pdf))
-13. [Lab: iterated learning (12/02)](simlang_13_lab.ipynb)
+13. [Lab: iterated learning (12/02)](simlang_13_lab.ipynb) (some [Answers](simlang_13_answered.ipynb))
 
 Break
 
 14. [Lecture: from individual to population (26/02)](simlang_14_lecture.ipynb) ([slides](simlang_14_slides.pdf))
 15. Lecture: Bayesian learning (28/02) ([slides](simlang_15_slides.pdf))
 16. Lecture: iterated Bayesian learning (01/03) ([slides](simlang_16_slides.pdf))
-17. [Lab: iterated Bayesian learning (05/03)](simlang_17_lab.ipynb)
+17. [Lab: iterated Bayesian learning (05/03)](simlang_17_lab.ipynb) (some [Answers](simlang_17_answered.ipynb))
 18. Lecture: Greenbergian universals (07/03) ([slides](simlang_18_slides.pdf))
 19. [Lab: Greenbergian universals (08/03)](simlang_19_lab.ipynb)
 20. Lecture: compositionality (12/03) ([slides](simlang_20_slides.pdf))
