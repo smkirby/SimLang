@@ -42,7 +42,7 @@ Break
 21. [Lab: compositionality from iterated learning (14/03)](simlang_21_lab.ipynb)
 22. Lecture: culture and innateness (15/03) ([slides](simlang_22_slides.pdf))
 23. [Lab: extending iterated Bayesian learning (19/03)](simlang_23_lab.ipynb)
-24. Lecture: evolution of learning bias (21/03)
+24. [Lecture: evolution of learning bias (21/03)](simlang_24_slides.pdf)
 25. Lecture: summary, and feedback on assignment 1 (22/03)
 
 ### Assessment
