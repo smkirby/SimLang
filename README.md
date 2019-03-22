@@ -18,7 +18,7 @@ Students should read the lecture notes (by following the links above or below on
 
 1. [Lecture: why simulate language? (15/01)](simlang_1_lecture.ipynb) ([slides](simlang_1_slides.pdf))
 2. [Lab: python intro (17/01)](simlang_2+3_lab.ipynb) (plus [Introduction to notebooks](simlang_2_notebook_intro.ipynb))
-3. Lab: python intro continued (18/01) (plus [Answers](simlang_2+3_answered.ipynb) and [Walkthrough](simlang_2+3_walkthrough.ipynb))
+3. [Lab: python intro continued (18/01)](simlang_2+3_lab.ipynb) (plus [Answers](simlang_2+3_answered.ipynb) and [Walkthrough](simlang_2+3_walkthrough.ipynb))
 4. [Lecture: modelling innate signalling (22/01)](simlang_4_lecture.ipynb) ([slides](simlang_4_slides.pdf))
 5. [Lab: signalling (24/01)](simlang_5_lab.ipynb) (plus some [Answers](simlang_5_answered.ipynb) and [Walkthrough](simlang_5_walkthrough.ipynb))
 6. [Lecture: evolving signalling (25/01)](simlang_6_lecture.ipynb) ([slides](simlang_6_slides.pdf))
